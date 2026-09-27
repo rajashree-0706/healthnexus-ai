@@ -1,0 +1,22 @@
+// Pure backup bridge export of the preserved stable UI components
+export { Navbar as StableNavbar } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/Navbar';
+export { Sidebar as StableSidebar } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/Sidebar';
+export { LandingPage as StableLandingPage } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/LandingPage';
+export { LoginPage as StableLoginPage } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/LoginPage';
+export { DoctorDashboard as StableDoctorDashboard } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/DoctorDashboard';
+export { DashboardOverview as StableDashboardOverview } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/DashboardOverview';
+export { PatientProfile as StablePatientProfile } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/PatientProfile';
+export { ReportAnalyzer as StableReportAnalyzer } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/ReportAnalyzer';
+export { WhatChanged as StableWhatChanged } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/WhatChanged';
+export { HealthPulseView as StableHealthPulseView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/HealthPulseView';
+export { MedTraceView as StableMedTraceView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/MedTraceView';
+export { CareGraphView as StableCareGraphView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/CareGraphView';
+export { MentalWellBeingView as StableMentalWellBeingView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/MentalWellBeingView';
+export { ActivitiesView as StableActivitiesView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/ActivitiesView';
+export { BreathingExerciseModal as StableBreathingExerciseModal } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/BreathingExerciseModal';
+export { AlertCenterView as StableAlertCenterView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/AlertCenterView';
+export { HospitalReadinessView as StableHospitalReadinessView } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/HospitalReadinessView';
+export { PatientJourneySimulator as StablePatientJourneySimulator } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/PatientJourneySimulator';
+export { NexusAiChat as StableNexusAiChat } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/NexusAiChat';
+export { AiTrustCenter as StableAiTrustCenter } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/AiTrustCenter';
+export { DemoTourModal as StableDemoTourModal } from '../HEALTHNEXUS_UI_STABLE_BACKUP_components/DemoTourModal';

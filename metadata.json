@@ -1,0 +1,6 @@
+{
+  "name": "HealthNexus AI",
+  "description": "Connecting Patient Intelligence to Healthcare Readiness with predictive care, report intelligence, mental well-being, and hospital simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
